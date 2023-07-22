@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/ayyubiy_10" target="blank"><img src="https://img.shields.io/twitter/follow/ayyubiy_10?logo=twitter&style=for-the-badge" alt="ayyubiy_10" /></a> </p>
 
-- 🌱 I’m currently learning **Data science and Machine Learning**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ayyubiy90](https://github.com/Ayyubiy90)
 
-- 💬 Ask me about **Web development, Data science & Hacking**
+- 💬 Ask me about **Web development, Manchine Learning & Hacking**
 
 - 📫 How to reach me **ayyubiy67@gmail.com**
 
