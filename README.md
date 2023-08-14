@@ -1,6 +1,6 @@
 ![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
 <h1 align="center">Hi 👋, I'm Abdullah Abdurazaq</h1>
-<h3 align="center">Full-Stack Developer & ML Engineer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayyubiy90&label=Profile%20views&color=0e75b6&style=flat" alt="ayyubiy90" /> </p>
 
@@ -12,18 +12,18 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ayyubiy90](https://github.com/Ayyubiy90)
 
-- 💬 Ask me about **Web development, Manchine Learning & Hacking**
+- 💬 Ask me about **Web development & Tech**
 
 - 📫 How to reach me **ayyubiy67@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/abdullah-abdurazaq-2940b7260/](https://www.linkedin.com/in/abdullah-abdurazaq-2940b7260/)
+- 📄 Know about my experiences [LinkedIn](www.linkedin.com/in/abdullah-abdurazaq-186442288)
 
 - ⚡ Fun fact **I'm passionate about my work, which means i'm always willing to go the extra mile to create something amazing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ayyubiy_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayyubiy_10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdullah-abdurazaq-2940b7260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-abdurazaq-2940b7260" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/abdullah-abdurazaq-186442288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-abdurazaq-2940b7260" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:22267660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:22267660" height="30" width="40" /></a>
 <a href="https://fb.com/ayyubiy10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayyubiy10" height="30" width="40" /></a>
 <a href="https://instagram.com/ayyubiy_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayyubiy_10" height="30" width="40" /></a>
