@@ -4,13 +4,33 @@ on:
   push:
     branches:
       - main
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
 
 jobs:
   update-stats:
-    runs-on: ubuntu-latest
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+    if: github.ref == 'refs/heads/main'  # Only runs if the push is to main
+
     steps:
     - uses: actions/checkout@v2
+
+    - name: Cache dependencies
+      uses: actions/cache@v2
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+
     - name: Update WakaTime stats
       uses: athul/waka-readme@master
       with:
         WAKATIME_API_KEY: waka_0ec2e4a0-aed3-458a-b344-aad8b7a43c8c
+
+    - name: Notify on failure
+      if: failure()
+      run: echo "Job failed!"
