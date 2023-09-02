@@ -1,3 +1,16 @@
-api_key: waka_0ec2e4a0-aed3-458a-b344-aad8b7a43c8c
-branches:
-  - main 
+name: WakaTime
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Update WakaTime stats
+      uses: athul/waka-readme@master
+      with:
+        WAKATIME_API_KEY: waka_0ec2e4a0-aed3-458a-b344-aad8b7a43c8c
