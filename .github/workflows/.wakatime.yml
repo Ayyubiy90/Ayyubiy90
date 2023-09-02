@@ -9,18 +9,24 @@ on:
 
 jobs:
   update-stats:
-    runs-on: ${{ matrix.os }}
-    strategy:
-      matrix:
-        os: [ubuntu-latest, windows-latest]
+    runs-on: ubuntu-latest  # Sticking to Ubuntu
+    if: github.ref == 'refs/heads/main'  # Only runs if the push is to main
 
     steps:
     - uses: actions/checkout@v2
 
+    - name: Cache dependencies
+      uses: actions/cache@v2
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+
     - name: Update WakaTime stats
       uses: athul/waka-readme@master
       with:
-        WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}  # Replace with GitHub secret
+        WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}  # Using GitHub Secrets
 
     - name: Notify on failure
       if: failure()
