@@ -41,4 +41,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayyubiy90&" alt="ayyubiy90" /></p>
 
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ayyubiy90)](https://github.com/anuraghazra/github-readme-stats)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ayyubiy90)
