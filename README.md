@@ -48,7 +48,7 @@ So, let's connect! 🎉 Let's talk tech, programming, or even debate if pineappl
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-abdurazaq-2940b7260)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ayyubiy_123)
 
-## My Skills
+## My Skills:
 
 ### Languages
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
