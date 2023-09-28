@@ -103,4 +103,4 @@ So, let's connect! 🎉 Let's talk tech, programming, or even debate if pineappl
 ## My Trophies 🏆
 <div align="center">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayyubiy90" alt="ayyubiy90" /></a> </p>
-</div>
+</div> 
