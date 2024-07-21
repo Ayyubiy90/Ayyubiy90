@@ -2,19 +2,19 @@ name: Wakatime Stats Update
 
 on:
   schedule:
-    - cron: '0 * * * *'
+    - cron: '0 * * * *' # This runs the job every hour
   push:
     branches:
-      - main
+      - main # Use your default branch name
 
 jobs:
   update-readme:
-    runs-on: windows-latest
+    runs-on: ubuntu-latest # This specifies the runner provided by GitHub Actions
     steps:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Wakatime Readme Stats
-        uses: anmol098/waka-readme-stats@v2.0.1
+        uses: miermontoto/waka-readme-stats@v5
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
