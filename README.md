@@ -97,9 +97,6 @@ So, let's connect! 🎉 Let's talk tech, programming, or even debate if pineappl
 ## Wakatime stats
 
 <!--START_SECTION:waka-->
-
-
-
 <!--END_SECTION:waka-->
 
 <hr>
