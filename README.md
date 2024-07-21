@@ -97,6 +97,9 @@ So, let's connect! 🎉 Let's talk tech, programming, or even debate if pineappl
 ## Wakatime stats
 
 <!--START_SECTION:waka-->
+
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=@ayb_10)
+
 <!--END_SECTION:waka-->
 
 <hr>
