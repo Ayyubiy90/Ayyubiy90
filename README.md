@@ -93,10 +93,12 @@ So, let's connect! 🎉 Let's talk tech, programming, or even debate if pineappl
 
 <hr>
 
-## Wakatime stats
+## Wakatime Stats
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
+
 
 <hr>
 
