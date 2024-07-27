@@ -177,7 +177,10 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 <hr>
 
-## My Trophies 🏆
+## My Achievements 🏆
+
 <div align="center">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayyubiy90" alt="ayyubiy90" /></a> </p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ayyubiy90&theme=nord&column=7&margin-w=15&margin-h=15" alt="ayyubiy90's GitHub Trophies" />
+  </a>
 </div> 
