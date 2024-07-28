@@ -108,9 +108,9 @@ So, let's connect! 🎉 Let's talk tech, programming, or even debate if pineappl
  > 
 > 💼 Opted to Hire
  > 
-> 📜 55 Public Repositories 
+> 📜 50 Public Repositories 
  > 
-> 🔑 37 Private Repositories 
+> 🔑 42 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -174,7 +174,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Ayyubiy90/Ayyubiy90/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2024 22:58:02 UTC
+ Last Updated on 28/07/2024 22:59:26 UTC
 <!--END_SECTION:waka-->
 
 
