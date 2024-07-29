@@ -1,18 +1,24 @@
 name: Wakatime Stats Update
-
 on:
   schedule:
     - cron: '0 0 * * *' # Runs daily at midnight UTC
   push:
     branches:
       - main # Update to your default branch name
+  workflow_dispatch: # Allows manual triggering
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
       - name: Wakatime Stats Update
         uses: anmol098/waka-readme-stats@master
         with:
@@ -20,9 +26,9 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           
           # Display options
-          SHOW_COMMIT: true
-          SHOW_DAYS_OF_WEEK: true
-          SHOW_OS: true
-          SHOW_PROJECTS: true
-          SHOW_EDITORS: true
-          SHOW_LANGUAGE_PER_REPO: true
+          SHOW_COMMIT: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_EDITORS: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
