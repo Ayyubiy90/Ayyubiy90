@@ -32,8 +32,6 @@ So, let's connect! 🎉 Let's talk tech, programming, or even debate if pineappl
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/95049390/224245344-ef03dab5-68a6-48eb-9753-9b13702d2aeb.gif">
 
-<p align="left"> <a href="https://twitter.com/ayyubiy_10" target="blank"><img src="https://img.shields.io/twitter/follow/ayyubiy_10?logo=twitter&style=for-the-badge" alt="ayyubiy_10" /></a> </p>
-
 - 🛠️ Currently building projects in **Full-Stack Development**
 - 📖 All projects are available at [My GitHub](https://github.com/Ayyubiy90)
 - 💬 Open to discussions on **Web Development, Emerging Technologies**
