@@ -1,11 +1,11 @@
 name: Wakatime Stats Update
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs daily at midnight UTC
+    - cron: '0 0 * * *' # Corrected cron syntax
   push:
     branches:
-      - main # Update to your default branch name
-  workflow_dispatch: # Allows manual triggering
+      - main
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -20,7 +20,7 @@ jobs:
           node-version: '20'
 
       - name: Wakatime Stats Update
-        uses: anmol098/waka-readme-stats@master
+        uses: anmol098/waka-readme-stats@v4 # Using a specific version
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -31,4 +31,8 @@ jobs:
           SHOW_OS: "True"
           SHOW_PROJECTS: "True"
           SHOW_EDITORS: "True"
-          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_LANGUAGE_PER_REPO: "False" # Temporarily disabled to test
+          
+          # Additional options to help debug
+          DEBUG_LOGGING: "True"
+          IGNORED_REPOS: "" # Add any repos you want to ignore, if any
