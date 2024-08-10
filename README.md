@@ -17,7 +17,7 @@ Step aside, Tony Stark! Just kidding—but I am on a quest to use my tech skills
 2. **🔥 Fire Extinguisher**: I love challenges—like a firefighter loves extinguishing flames!
 3. **🌱 Evergreen Skills**: I'm always up-to-date, like your phone after an annoying number of update reminders.
 
-### 🎯 Current XP Goals 🎯
+### Current XP Goals 🎯
 
 1. 🏆 Master the Senior Full-Stack Developer level
 2. 🤝 Become an Open-Source Samurai
