@@ -7,7 +7,7 @@
 
 Hey there, I'm Abdullah! 🌟 If coding was an RPG, consider me your next party member leveling up in Full-Stack Development from the vibrant city of Lagos, Nigeria. 🌍
 
-### 🎯 My Mission? Elevate the Tech Game! 🎯
+### My Mission? Elevate the Tech Game! 🎯
 
 Step aside, Tony Stark! Just kidding—but I am on a quest to use my tech skills for the greater good. Let's solve real-world problems, one line of code at a time! 🛠️💻
 
