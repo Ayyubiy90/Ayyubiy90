@@ -3,7 +3,7 @@
 <h1 align="center">Hello 👋, I'm Abdullah Abdurazaq</h1>
 <h3 align="center">Full-Stack Developer and Tech Enthusiasts </h3>
 
-## 🚀 Who Am I? Your Next Go-To Dev! 🚀
+## Who Am I? Your Next Go-To Dev! 🚀
 
 Hey there, I'm Abdullah! 🌟 If coding was an RPG, consider me your next party member leveling up in Full-Stack Development from the vibrant city of Lagos, Nigeria. 🌍
 
