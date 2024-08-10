@@ -11,7 +11,7 @@ Hey there, I'm Abdullah! 🌟 If coding was an RPG, consider me your next party 
 
 Step aside, Tony Stark! Just kidding—but I am on a quest to use my tech skills for the greater good. Let's solve real-world problems, one line of code at a time! 🛠️💻
 
-### 🌈 Why Team Up With Me? 🌈
+### Why Team Up With Me? 🌈
 
 1. **💎 Quality Over Quantity**: Clean and efficient code is my jam.
 2. **🔥 Fire Extinguisher**: I love challenges—like a firefighter loves extinguishing flames!
