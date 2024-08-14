@@ -19,7 +19,7 @@ Step aside, Tony Stark! Just kidding—but I am on a quest to use my tech skills
 
 ### Current XP Goals 🎯
 
-1. 🏆 Master the Senior Full-Stack Developer level
+1. 🏆 Master the Senior Full-Stack Developer level 
 2. 🤝 Become an Open-Source Samurai
 3. 🌍 Build solutions that'll make you say "WOW!"
 4. 📚 Be a never-ending student in the school of tech life
