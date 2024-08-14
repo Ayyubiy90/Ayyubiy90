@@ -34,7 +34,7 @@ So, let's connect! 🎉 Let's talk tech, programming, or even debate if pineappl
 
 - 🛠️ Currently building projects in **Full-Stack Development**
 - 📖 All projects are available at [My GitHub](https://github.com/Ayyubiy90)
-- 💬 Open to discussions on **Web Development, Emerging Technologies** 
+- 💬 Open to discussions on **Web Development, Emerging Technologies**
 - 📫 Reach me via **ayyubiy67@gmail.com**
 - 📄 [LinkedIn Profile](www.linkedin.com/in/abdullah-abdurazaq-2940b7260)
 - ⚡ Fact: **I'm committed to delivering high-quality software solutions.**
