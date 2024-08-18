@@ -1,7 +1,7 @@
 name: Wakatime Stats Update
 on:
   schedule:
-    - cron: '0 0 * * *' # Corrected cron syntax
+    - cron: '0 */6 * * *'
   push:
     branches:
       - main
