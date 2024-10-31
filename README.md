@@ -1,6 +1,6 @@
 ![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
 
-### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+### Hi there! 😄
 
 I'm [**Abdullah**](https://my-portfolio-g2z2tugfs-chinxas-projects.vercel.app/), a Frontend Developer based in Lagos, Nigeria. 🌍
 
