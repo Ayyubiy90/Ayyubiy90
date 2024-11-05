@@ -1,6 +1,6 @@
 ![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
 
-### Hi there! 😄   
+### Hi there! 😄    
 
 I'm [**Abdullah**](https://my-portfolio-fawn-three-77.vercel.app/), a Frontend Developer based in Lagos, Nigeria. 🌍
 
