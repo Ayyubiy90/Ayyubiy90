@@ -2,7 +2,7 @@
 
 ### Hi there! 😄
 
-I'm [**Abdullah**](https://my-portfolio-fawn-three-77.vercel.app/), a Frontend Developer based in Lagos, Nigeria. 🌍  
+I'm [**Abdullah**](https://my-portfolio-fawn-three-77.vercel.app/), a Frontend Developer based in Lagos, Nigeria. 🌍   
 
 I'm passionate about crafting responsive, intuitive web applications that create great user experiences. With 3 years of experience, I specialize in the **React ecosystem** and modern frontend technologies. **Proficient in frontend development with supporting experience in backend technologies for full-stack projects.** My goal is to build scalable and efficient applications that balance functionality with creativity.
 
