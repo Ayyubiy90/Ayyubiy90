@@ -8,7 +8,7 @@ I'm passionate about crafting responsive, intuitive web applications that create
 
 Currently, I'm pursuing a **Bachelor's degree in Computer Science** and am open to remote roles, whether full-time, part-time, or contract.
 
-Outside of work, I am passionate about expanding my knowledge of the tech world. I also work on numerous side projects (with over **100+ in private repositories**).
+Outside of work, I am passionate about expanding my knowledge of the tech world. I also work on numerous side projects (with over **120+ in private repositories**).
 
 #### Fun Facts:
 - 💻 Outside of coding, I’m an avid tech enthusiast and love exploring new gadgets.
