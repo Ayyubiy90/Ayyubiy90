@@ -22,6 +22,7 @@ I own problems end to end: real-time chat and notification systems, OTA update i
 
 - 🛠️ Currently building **Vrede**, a full-stack classroom platform (mobile + backend + infra)
 - 🎓 Computer Science background, self-taught before going professional
+- 📦 148+ repositories — a mix of shipped products, experiments, and side projects
 - 🌍 Open to remote opportunities — full-time or contract
 - 💬 Happy to talk shop about mobile infra, backend architecture, or shipping fast without breaking things
 
